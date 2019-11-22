@@ -1,7 +1,7 @@
 {
   "UPPER_WALL": 0.03,
   "LOWER_WALL": 0.015,
-  "NUMBER_OF_GRIDS": 4,
+  "NUMBER_OF_GRIDS": 50,
   "AMOUNT_PER_GRID": 0.02,
   "PAIR": "ETH_BTC",
   "PUBLIC_KEY": "",
