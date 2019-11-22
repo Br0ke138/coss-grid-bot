@@ -11,7 +11,7 @@ No. When the price keep tanking or pumping, that’s the worst moment to use the
 ### 3. The bot looks perfect! How can I setup a Grid Trading Bot?
  - Install node.js
  - Download the bot here https://github.com/Br0ke138/coss-grid-bot/archive/master.zip
- - Configure the bot via config.json (See the Bot Setup section for details)
+ - Configure the bot via config.json (See the Bot Setup section for details) !DISCLAIMER: This bot is no guaranteed profit, please configure the bot before you start it
  - In Command line or terminal execute the following command: npm start
 
 ### 4. What will happen when the price across the boundary of the bot?
