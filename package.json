@@ -7,20 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
     "dev": "ts-node-dev --respawn --transpileOnly --clear ./index.ts",
-    "prod": "tsc && node ./build/index.js"
+    "prod": "tsc && node ./build/index.js",
+    "start" "node ./index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "blessed": "^0.1.81",
-    "blessed-contrib": "^4.8.18",
     "crypto-js": "^3.1.9-1",
     "decimal": "0.0.2",
     "lowdb": "^1.0.0",
     "querystring": "^0.2.0",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8",
-    "table": "^5.4.6",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.7.2"
   },
