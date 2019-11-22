@@ -8,8 +8,11 @@ Grid Trading Bot is the best weapon in the swinging market. When the price keeps
 ### 2. Does Grid Trading Bot fit all the market condition?
 No. When the price keep tanking or pumping, that’s the worst moment to use the Grid Trading Bot. Try to use the bot in the swinging market.
 
-### 3. The bot looks perfect! How can I setup a Grid Trading Bot? Are there any tutorials?
-
+### 3. The bot looks perfect! How can I setup a Grid Trading Bot?
+ - Install node.js
+ - Download the bot here https://github.com/Br0ke138/coss-grid-bot/archive/master.zip
+ - Configure the bot via config.json (See the Bot Setup section for details)
+ - In Command line or terminal execute the following command: node index.js
 
 ### 4. What will happen when the price across the boundary of the bot?
 Let's take BTC/USDT pair as an example,
