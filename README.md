@@ -35,6 +35,7 @@ Let's take BTC/USDT pair as an example,
 * When you have more grids in a limited range, you’ll have higher possibility to executed your orders but less profit per grid.
 * When you have less grids in a limited range, you’ll have lower possibility to executed your orders but more profit per grid.
 
+---
 
 ## STEP BY STEP EXPLANATION OF GRID TRADING 
 
