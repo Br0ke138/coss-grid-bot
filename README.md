@@ -1,47 +1,20 @@
 # coss-grid-bot
 
-# FAQ for Grid Trading Bot
-
-> [time=Sun, Jan 16, 2019 3:43 PM]
-> 
-[[KR] FAQ for Grid Trading Bot](/xeXoKJLDTgOPMhQ8gthuFA)
-
-[TOC]
-
-
----
-
-
----
-
 ## **INTRO OF THE BOT**
 
 ### 1. When is the best moment for me to create a Grid Trading Bot?
 Grid Trading Bot is the best weapon in the swinging market. When the price keeps fluctuated in the same range, that’s the moment to create a Grid Trading Bot.
 
-3 use cases for the grid bot https://medium.com/bituniverse/3-use-case-for-grid-bot-to-trade-crypto-253675f123e8
-
-
-
 ### 2. Does Grid Trading Bot fit all the market condition?
 No. When the price keep tanking or pumping, that’s the worst moment to use the Grid Trading Bot. Try to use the bot in the swinging market.
 
-But some of our users have found other usage for the bot in different market condition. Such as buy the dip or sell at the top!!
-Check it out here -> https://medium.com/bituniverse/better-way-to-buy-bitcoin-at-the-bottom-993e00779431
-
 ### 3. The bot looks perfect! How can I setup a Grid Trading Bot? Are there any tutorials?
-We have made some tutorials as following:
-* Video - How to use Grid Trading Bot in BitUniverse: https://youtu.be/NsEX3qHg39A
-* Check out tutorial for Grid Trading Bot on Medium: https://goo.gl/EFh6aJ
-* [Check step-by-step explanation of the bot](https://hackmd.io/egxkUDVHQZyyfEdy5Niucw?both#STEP-BY-STEP-EXPLANATION-OF-GRID-TRADING)
 
 
 ### 4. What will happen when the price across the boundary of the bot?
 Let's take BTC/USDT pair as an example,
 * If the price break through the highest price of the bot, all BTC will be sold and you’ll stake USDT. The bot will remain at the same range and waiting for the price drop back to the range.
 * If the price drop through the lowest price of the bot, all of the buy orders for BTC will be fully executed. The bot will remain at the same range and waiting for the price rise back to the range.
-
-
 
 
 ---
