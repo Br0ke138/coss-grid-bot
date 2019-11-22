@@ -12,7 +12,7 @@ No. When the price keep tanking or pumping, that’s the worst moment to use the
  - Install node.js
  - Download the bot here https://github.com/Br0ke138/coss-grid-bot/archive/master.zip
  - Configure the bot via config.json (See the Bot Setup section for details)
- - In Command line or terminal execute the following command: node index.js
+ - In Command line or terminal execute the following command: npm start
 
 ### 4. What will happen when the price across the boundary of the bot?
 Let's take BTC/USDT pair as an example,
