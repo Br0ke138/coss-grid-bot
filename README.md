@@ -28,7 +28,7 @@ Let's take BTC/USDT pair as an example,
 ### 1. What's the meaning for each parameter? I don't understand any of them.
 * **UPPER_WALL:** Highest sell price. The upper boundary of your bot
 * **LOWER_WALL:** Lowest buy price. The lower boundary of your bot.
-* **NUMBER_OF_GRIDS:** There's a limitation in the number of grid, you can't set it below 2 and above 99.
+* **NUMBER_OF_GRIDS:** Amount of grids the range should be splitted up.
 * **AMOUNT_PER_GRID:** The amount for each order in the bot.
 * **PUBLIC_KEY:** Your Public Key.
 * **PRIVATE_KEY:** Your Private Key.
